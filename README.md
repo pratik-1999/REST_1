@@ -2,9 +2,9 @@
 
 ## Installations req:
 
->pip install Flask
->pip install Flask-restful
->pip install Flask-sqlalchemy
+>pip install Flask<br/>
+>pip install Flask-restful<br/>
+>pip install Flask-sqlalchemy<br/>
  
 
 ## Description
